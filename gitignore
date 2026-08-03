@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.exe
+build/
+dist/
+*.spec
+.venv/
+venv/
+
+# Java / IDE
+*.class
+*.jar
+.idea/
+.settings/
+.classpath
+.project/
+bin/
+out/
+target/
+
+# OS / Misc
+.DS_Store
+*.log
+
+Plaintext
+.env
+*.env
+backend/backup/
